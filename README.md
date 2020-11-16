@@ -1,4 +1,4 @@
-# Human-Machine Interface (HMI) FOR REAL TIME SIGNAL PROCESSINg and GRAPHIC VISUALIZATION
+# HUMAN-MACHINE INTERFACE (HMI) FOR REAL TIME SIGNAL PROCESSING AND GRAPHIC VISUALIZATION
 
 Windows Forms aplication for real-time graphical visualization and processing of Electroencephalographic (EEG) signals.
 
