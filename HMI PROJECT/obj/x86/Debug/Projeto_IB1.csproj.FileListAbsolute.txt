@@ -1,0 +1,95 @@
+C:\Users\Rafael\AppData\Local\Temporary Projects\Projeto_IB1\obj\x86\Debug\Projeto_IB1.Form1.resources
+C:\Users\Rafael\AppData\Local\Temporary Projects\Projeto_IB1\obj\x86\Debug\Projeto_IB1.Properties.Resources.resources
+C:\Users\Rafael\AppData\Local\Temporary Projects\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csproj.GenerateResource.Cache
+C:\Users\Rafael\AppData\Local\Temporary Projects\Projeto_IB1\bin\Debug\Projeto_IB1.exe
+C:\Users\Rafael\AppData\Local\Temporary Projects\Projeto_IB1\bin\Debug\Projeto_IB1.pdb
+C:\Users\Rafael\AppData\Local\Temporary Projects\Projeto_IB1\obj\x86\Debug\Projeto_IB1.exe
+C:\Users\Rafael\AppData\Local\Temporary Projects\Projeto_IB1\obj\x86\Debug\Projeto_IB1.pdb
+C:\Users\Rafael\documents\visual studio 2010\Projects\Projeto_IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.exe
+C:\Users\Rafael\documents\visual studio 2010\Projects\Projeto_IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.pdb
+C:\Users\Rafael\documents\visual studio 2010\Projects\Projeto_IB1\Projeto_IB1\bin\Debug\Projeto_IB1.exe
+C:\Users\Rafael\documents\visual studio 2010\Projects\Projeto_IB1\Projeto_IB1\bin\Debug\Projeto_IB1.pdb
+C:\Users\Rafael\documents\visual studio 2010\Projects\Projeto_IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.Form1.resources
+C:\Users\Rafael\documents\visual studio 2010\Projects\Projeto_IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.Properties.Resources.resources
+C:\Users\Rafael\documents\visual studio 2010\Projects\Projeto_IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Projeto_IB1\Projeto_IB1\bin\Debug\Projeto_IB1.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Projeto_IB1\Projeto_IB1\bin\Debug\Projeto_IB1.pdb
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Projeto_IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Projeto_IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.Form1.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Projeto_IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Projeto_IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Projeto_IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Projeto_IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.exe
+C:\Users\Admin\Documents\Visual Studio 2017\Projects\Projeto_IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.pdb
+C:\Users\Admin\Desktop\Projeto IB1\Tentativas Anteriores\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projeto IB1\Tentativas Anteriores\Projeto_IB1\obj\x86\Debug\Projeto_IB1.Form1.resources
+C:\Users\Admin\Desktop\Projeto IB1\Tentativas Anteriores\Projeto_IB1\obj\x86\Debug\Projeto_IB1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Projeto IB1\Tentativas Anteriores\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Projeto IB1\Tentativas Anteriores\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projeto IB1\Tentativas Anteriores\Projeto_IB1\obj\x86\Debug\Projeto_IB1.exe
+C:\Users\Admin\Desktop\Projeto IB1\Tentativas Anteriores\Projeto_IB1\obj\x86\Debug\Projeto_IB1.pdb
+C:\Users\Admin\Desktop\Projeto IB1\Tentativas Anteriores\Projeto_IB1\bin\Debug\Projeto_IB1.exe
+C:\Users\Admin\Desktop\Projeto IB1\Tentativas Anteriores\Projeto_IB1\bin\Debug\Projeto_IB1.pdb
+C:\Users\Admin\Desktop\STR\Projeto IB1\Projeto_IB1\bin\Debug\Projeto_IB1.exe
+C:\Users\Admin\Desktop\STR\Projeto IB1\Projeto_IB1\bin\Debug\Projeto_IB1.pdb
+C:\Users\Admin\Desktop\STR\Projeto IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\STR\Projeto IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.Form1.resources
+C:\Users\Admin\Desktop\STR\Projeto IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.Properties.Resources.resources
+C:\Users\Admin\Desktop\STR\Projeto IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\STR\Projeto IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\STR\Projeto IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.exe
+C:\Users\Admin\Desktop\STR\Projeto IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.pdb
+C:\Users\Admin\Desktop\Projeto IB1\Projeto IB1\Projeto_IB1\bin\Debug\Projeto_IB1.exe
+C:\Users\Admin\Desktop\Projeto IB1\Projeto IB1\Projeto_IB1\bin\Debug\Projeto_IB1.pdb
+C:\Users\Admin\Desktop\Projeto IB1\Projeto IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Projeto IB1\Projeto IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.Form1.resources
+C:\Users\Admin\Desktop\Projeto IB1\Projeto IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Projeto IB1\Projeto IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Projeto IB1\Projeto IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Projeto IB1\Projeto IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.exe
+C:\Users\Admin\Desktop\Projeto IB1\Projeto IB1\Projeto_IB1\obj\x86\Debug\Projeto_IB1.pdb
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Arquivos Biolab\Projeto_IB1\bin\Debug\Projeto_IB1.exe
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Arquivos Biolab\Projeto_IB1\bin\Debug\Projeto_IB1.pdb
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Arquivos Biolab\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csprojAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Arquivos Biolab\Projeto_IB1\obj\x86\Debug\Projeto_IB1.Form1.resources
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Arquivos Biolab\Projeto_IB1\obj\x86\Debug\Projeto_IB1.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Arquivos Biolab\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csproj.GenerateResource.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Arquivos Biolab\Projeto_IB1\obj\x86\Debug\Projeto_IB1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Arquivos Biolab\Projeto_IB1\obj\x86\Debug\Projeto_IB1.exe
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\Arquivos Biolab\Projeto_IB1\obj\x86\Debug\Projeto_IB1.pdb
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\bin\Debug\Projeto_IB1.exe
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\bin\Debug\Projeto_IB1.pdb
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\obj\x86\Debug\Projeto_IB1.csprojAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\obj\x86\Debug\Projeto_IB1.Form1.resources
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\obj\x86\Debug\Projeto_IB1.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\obj\x86\Debug\Projeto_IB1.csproj.GenerateResource.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\obj\x86\Debug\Projeto_IB1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\obj\x86\Debug\Projeto_IB1.exe
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\obj\x86\Debug\Projeto_IB1.pdb
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\Trabalho Final IB1\bin\Debug\Projeto_IB1.exe
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\Trabalho Final IB1\bin\Debug\Projeto_IB1.pdb
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.csprojAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.Form1.resources
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.csproj.GenerateResource.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.csproj.CoreCompileInputs.cache
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.exe
+C:\Users\Alexandre\Desktop\Arquivos 2019\UFU\MESTRADO\VS Project\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.pdb
+C:\Users\luanp\Desktop\Trabalho Final IB1\bin\Debug\Projeto_IB1.exe
+C:\Users\luanp\Desktop\Trabalho Final IB1\bin\Debug\Projeto_IB1.pdb
+C:\Users\luanp\Desktop\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.csprojAssemblyReference.cache
+C:\Users\luanp\Desktop\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.Form1.resources
+C:\Users\luanp\Desktop\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.Properties.Resources.resources
+C:\Users\luanp\Desktop\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.csproj.GenerateResource.cache
+C:\Users\luanp\Desktop\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.csproj.CoreCompileInputs.cache
+C:\Users\luanp\Desktop\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.exe
+C:\Users\luanp\Desktop\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.pdb
+C:\Users\danro\Desktop\Trabalho Final IB1\bin\Debug\Projeto_IB1.exe
+C:\Users\danro\Desktop\Trabalho Final IB1\bin\Debug\Projeto_IB1.pdb
+C:\Users\danro\Desktop\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.csprojAssemblyReference.cache
+C:\Users\danro\Desktop\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.Form1.resources
+C:\Users\danro\Desktop\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.Properties.Resources.resources
+C:\Users\danro\Desktop\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.csproj.GenerateResource.cache
+C:\Users\danro\Desktop\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.csproj.CoreCompileInputs.cache
+C:\Users\danro\Desktop\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.exe
+C:\Users\danro\Desktop\Trabalho Final IB1\obj\x86\Debug\Projeto_IB1.pdb
